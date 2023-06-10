@@ -26,7 +26,7 @@
     "@xan105/screenshot": "^1.2.1",
     "@xan105/video-capture": "^1.2.0",
     "crc": "^3.8.0",
-    "emittery": "^0.7.2",
+    "emittery": "^0.13.1",
     "fast-glob": "^3.2.5",
     "find-up": "^4.1.0",
     "get-startapps": "^1.0.4",
