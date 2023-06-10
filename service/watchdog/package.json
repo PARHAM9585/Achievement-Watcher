@@ -43,7 +43,7 @@
     "single-instance": "0.0.1",
     "win-tasklist": "^1.1.0",
     "wql-process-monitor": "^1.4.0",
-    "ws": "^7.5.2",
+    "ws": "^7.5.9",
     "xinput-ffi": "^1.2.4"
   }
 }
