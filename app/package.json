@@ -30,7 +30,7 @@
     "argv-split": "^2.0.1",
     "crc": "^3.8.0",
     "deepmerge": "^4.2.2",
-    "fast-glob": "^3.2.4",
+    "fast-glob": "^3.3.3",
     "find-up": "^4.1.0",
     "humanize-duration": "^3.25.1",
     "js-yaml": "^3.14.1",
